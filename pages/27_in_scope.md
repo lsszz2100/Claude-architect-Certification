@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 시험 출제 범위 요약
 
+
+[← Chapter 26](26_practice_questions.md) | [목차](../TOC.md) | [Chapter 28: 비출제 범위 →](28_out_of_scope.md)
+
 ---
 
 ## 시험 범위 개요

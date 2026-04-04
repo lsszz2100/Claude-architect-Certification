@@ -3,13 +3,16 @@
 > 📅 2026년 04월 05일 기준  
 > 📚 공식 자료 및 추가 학습 자료 모음
 
+
+[← 부록 B](A2_cheatsheet.md) | [목차](../TOC.md) | [부록 D: 코드 모음 →](A4_code_examples.md)
+
 ---
 
 ## 공식 Anthropic 자료
 
 ### 시험 관련
-- 시험 등록: https://anthropic.skilljar.com
-- 공식 강의 (13개 무료): https://anthropic.skilljar.com
+- 시험 등록: https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request
+- 공식 강의 (13개 무료): https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request
 - 연습 문제: http://claudecertifications.com
 
 ### 개발 문서

@@ -2,6 +2,9 @@
 
 > 📅 최종 업데이트: 2026년 04월 05일
 
+
+[목차](../TOC.md) | [AI 업무 자동화 비서란? →](00_popular_topic.md)
+
 ---
 
 ## 이 책의 구성 원칙
@@ -61,6 +64,20 @@ Part 9 전략 먼저 → Part 2~6 도메인 순서대로 → Part 8 문제 풀�
    ```bash
    export ANTHROPIC_API_KEY="your-api-key-here"
    ```
+
+---
+
+## 시험 응시 안내
+
+Claude Certified Architect – Foundations 시험에 관한 기본 정보입니다.
+
+| 항목 | 내용 |
+|------|------|
+| 자격증명 | Claude Certified Architect – Foundations |
+| 문제 형식 | 4지선다 객관식 (오답 감점 없음) |
+| 합격 점수 | 720 / 1000 (scaled score) |
+| 시나리오 수 | 6개 중 4개 랜덤 출제 |
+| 응시 등록 | [응시 신청 페이지](https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request) |
 
 ---
 

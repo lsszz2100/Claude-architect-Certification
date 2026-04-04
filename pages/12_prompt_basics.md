@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 Domain 4: 20% — 명시적 기준과 Few-Shot이 핵심
 
+
+[← Chapter 11](11_plan_mode.md) | [목차](../TOC.md) | [Chapter 13: 구조화된 출력 →](13_structured_output.md)
+
 ---
 
 ## 12.1 명시적 기준 설계

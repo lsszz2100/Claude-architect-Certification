@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 공식 시험 가이드의 실제 샘플 문제 해설
 
+
+[← Chapter 24](24_sample_q5_8.md) | [목차](../TOC.md) | [Chapter 26: 연습 문제 50선 →](26_practice_questions.md)
+
 ---
 
 ## 문제 9: Prompt Engineering — False Positive 처리

@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 공식 시험 가이드의 실제 샘플 문제 해설
 
+
+[← Chapter 22](22_scenario6_data_extraction.md) | [목차](../TOC.md) | [Chapter 24: 샘플 문제 Q5~Q8 →](24_sample_q5_8.md)
+
 ---
 
 ## 문제 1: 고객 확인 건너뜀 문제

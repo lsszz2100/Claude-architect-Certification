@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 체계적인 합격 로드맵
 
+
+[← Chapter 28](28_out_of_scope.md) | [목차](../TOC.md) | [Chapter 30: 시험 당일 전략 →](30_exam_strategy.md)
+
 ---
 
 ## 12주 전체 개요

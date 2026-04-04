@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 Domain 3 — 프로젝트 vs 사용자 범위 구분
 
+
+[← Chapter 9](09_claude_code.md) | [목차](../TOC.md) | [Chapter 11: Plan Mode →](11_plan_mode.md)
+
 ---
 
 ## 10.1 슬래시 커맨드 만들기

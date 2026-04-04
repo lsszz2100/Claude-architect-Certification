@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 실제 시험 시나리오 1 해설
 
+
+[← Chapter 16](16_escalation_reliability.md) | [목차](../TOC.md) | [Chapter 18: 시나리오 2 →](18_scenario2_code_generation.md)
+
 ---
 
 ## 시나리오 개요

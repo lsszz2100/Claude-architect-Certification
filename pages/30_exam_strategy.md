@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 합격을 위한 전략적 문제 풀이 접근법
 
+
+[← Chapter 29](29_study_plan.md) | [목차](../TOC.md) | [Chapter 31: 최종 체크리스트 →](31_final_checklist.md)
+
 ---
 
 ## 시험 기본 정보
@@ -13,7 +16,7 @@
 | 합격 점수 | 1000점 만점 중 720점 |
 | 시나리오 | 6개 중 4개 무작위 선택 |
 | 오답 감점 | 없음 |
-| 응시 플랫폼 | https://anthropic.skilljar.com |
+| 응시 플랫폼 | https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request |
 
 ---
 
@@ -226,7 +229,7 @@ JSON 구문 오류               → tool_use 사용
 
 ### 응시 전 (2시간 전)
 1. 치트시트 마지막으로 훑어보기
-2. 등록 확인: https://anthropic.skilljar.com
+2. 등록 확인: https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request
 3. 조용한 환경 확보
 4. 물 한 잔 준비
 

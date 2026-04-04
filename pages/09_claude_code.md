@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 Domain 3: 20% — CLAUDE.md 계층이 핵심
 
+
+[← Chapter 8](08_mcp.md) | [목차](../TOC.md) | [Chapter 10: 커스텀 커맨드 →](10_commands_skills.md)
+
 ---
 
 ## 9.1 Claude Code란?

@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 Domain 4 — Batch API 50% 비용 절감, 차단/비차단 구분
 
+
+[← Chapter 13](13_structured_output.md) | [목차](../TOC.md) | [Chapter 15: 컨텍스트 관리 →](15_context_management.md)
+
 ---
 
 ## 14.1 Message Batches API

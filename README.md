@@ -1,14 +1,21 @@
 # Claude Certified Architect 자격증 준비 가이드
-### 초급자부터 합격까지 — 실무 중심으로 정리한 학습서
 
 <p align="center">
   <img src="assets/cover.png" alt="Claude Certified Architect 자격증 준비 가이드 표지" width="300">
 </p>
 
-> 작성일: 2026년 04월 05일  
-> 대상: AI 초급자 ~ 실무 개발자  
-> 버전: v1.0  
-> 기반 시험 버전: Exam Guide v0.1 (Feb 10, 2025)
+<p align="center">초급자부터 합격까지 — 실무 중심으로 정리한 학습서</p>
+
+---
+
+## 바로 시작하기
+
+> 이 책은 TOC.md(목차)를 통해 순서대로 읽도록 설계되어 있습니다.
+
+**[목차 바로가기 →](TOC.md)**
+
+또는 첫 페이지부터 읽기:  
+[이 책을 읽는 방법 →](pages/00_how_to_read.md)
 
 ---
 
@@ -22,16 +29,6 @@ AI가 단순한 도구를 넘어 생각하고 행동하는 에이전트로 진�
 
 ---
 
-## 책의 특징
-
-- 초급자 친화적: AI와 프로그래밍 기초부터 시작
-- 실무 중심: 실제 사용 사례 기반의 예제 코드 수록
-- 시험 최적화: 도메인별 가중치를 반영한 학습 전략
-- 최신 내용: 2026년 04월 05일 기준 최신 Claude 모델 및 API 반영
-- 다이어그램 포함: 복잡한 개념을 시각적으로 이해
-
----
-
 ## 시험 핵심 정보
 
 | 항목 | 내용 |
@@ -40,15 +37,32 @@ AI가 단순한 도구를 넘어 생각하고 행동하는 에이전트로 진�
 | 문제 형식 | 4지선다 객관식 (오답 감점 없음) |
 | 합격 점수 | 720 / 1000 (scaled score) |
 | 시나리오 수 | 6개 중 4개 랜덤 출제 |
-| 응시 등록 | https://anthropic.skilljar.com |
+| 응시 등록 | [응시 신청 페이지](https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request) |
 
 ---
 
-## 저자 소개
+## 책의 구성
+
+| Part | 내용 | 챕터 |
+|------|------|------|
+| Part 1 | 기초 — Claude와 AI 이해 | Chapter 1~3 |
+| Part 2 | Domain 1: Agentic Architecture (27%) | Chapter 4~6 |
+| Part 3 | Domain 2: Tool Design & MCP (18%) | Chapter 7~8 |
+| Part 4 | Domain 3: Claude Code (20%) | Chapter 9~11 |
+| Part 5 | Domain 4: Prompt Engineering (20%) | Chapter 12~14 |
+| Part 6 | Domain 5: Context Management (15%) | Chapter 15~16 |
+| Part 7 | 실전 시나리오 | Chapter 17~22 |
+| Part 8 | 실전 문제 풀이 | Chapter 23~26 |
+| Part 9 | 시험 전략과 마무리 | Chapter 27~31 |
+| 부록 | 용어사전, 치트시트, 코드 모음 | A~D |
+
+전체 목차는 [TOC.md](TOC.md)를 참고하세요.
+
+---
+
+## 저자 및 연락처
 
 이 책은 Claude API, Agent SDK, Claude Code, MCP의 공식 문서와 시험 가이드를 분석하여, 초급자가 실무 수준까지 성장할 수 있도록 구성되었습니다.
-
-### 연락처 및 커뮤니티
 
 | 채널 | 링크 |
 |------|------|
@@ -57,11 +71,4 @@ AI가 단순한 도구를 넘어 생각하고 행동하는 에이전트로 진�
 
 ---
 
-## AI 에이전트 기반 업무 자동화 비서 만들기
-
-이 책의 실습 예제는 "AI 에이전트 기반 업무 자동화 비서"를 테마로 진행됩니다.
-단순한 챗봇이 아닌, 실제로 업무를 처리하고, 데이터를 분석하고, 보고서를 작성하는 나만의 AI 비서를 만드는 여정을 통해 자격증 내용을 자연스럽게 습득합니다.
-
----
-
-*"The best way to learn is to build." — Claude Certified Architect 합격의 비결*
+*이 책은 Claude Certified Architect – Foundations Exam Guide v0.1 (Feb 10, 2025)을 기반으로 작성되었습니다.*

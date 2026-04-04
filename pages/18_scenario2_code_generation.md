@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 실제 시험 시나리오 2 해설
 
+
+[← Chapter 17](17_scenario1_customer_support.md) | [목차](../TOC.md) | [Chapter 19: 시나리오 3 →](19_scenario3_multi_agent.md)
+
 ---
 
 ## 시나리오 개요

@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 Domain 2 핵심 — MCP 설정과 리소스 설계
 
+
+[← Chapter 7](07_tool_design.md) | [목차](../TOC.md) | [Chapter 9: Claude Code →](09_claude_code.md)
+
 ---
 
 ## 8.1 MCP란 무엇인가?

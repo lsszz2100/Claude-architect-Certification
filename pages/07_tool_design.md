@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 Domain 2: 18% — 툴 설명이 핵심
 
+
+[← Chapter 6](06_workflow_design.md) | [목차](../TOC.md) | [Chapter 8: MCP →](08_mcp.md)
+
 ---
 
 ## 7.1 툴 설명(Description)의 중요성

@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 실제 시험 시나리오 5 해설
 
+
+[← Chapter 20](20_scenario4_developer_productivity.md) | [목차](../TOC.md) | [Chapter 22: 시나리오 6 →](22_scenario6_data_extraction.md)
+
 ---
 
 ## 시나리오 개요

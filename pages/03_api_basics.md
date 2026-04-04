@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 💻 실습 중심 챕터
 
+
+[← Chapter 2](02_claude_models.md) | [목차](../TOC.md) | [Chapter 4: 에이전틱 시스템 →](04_agentic_intro.md)
+
 ---
 
 ## 3.1 API 키 발급과 환경 설정

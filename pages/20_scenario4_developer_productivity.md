@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 실제 시험 시나리오 4 해설
 
+
+[← Chapter 19](19_scenario3_multi_agent.md) | [목차](../TOC.md) | [Chapter 21: 시나리오 5 →](21_scenario5_cicd.md)
+
 ---
 
 ## 시나리오 개요

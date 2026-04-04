@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 실제 시험 시나리오 3 해설
 
+
+[← Chapter 18](18_scenario2_code_generation.md) | [목차](../TOC.md) | [Chapter 20: 시나리오 4 →](20_scenario4_developer_productivity.md)
+
 ---
 
 ## 시나리오 개요

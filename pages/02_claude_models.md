@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 시험 출제 포인트: 모델 선택 기준, 컨텍스트 창 이해
 
+
+[← Chapter 1](01_ai_llm_world.md) | [목차](../TOC.md) | [Chapter 3: Claude API 첫걸음 →](03_api_basics.md)
+
 ---
 
 ## 2.1 최신 Claude 모델 현황

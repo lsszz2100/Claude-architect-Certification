@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 Domain 5: 15% — Lost-in-the-Middle, 구조화된 사실 추출
 
+
+[← Chapter 14](14_batch_review.md) | [목차](../TOC.md) | [Chapter 16: 에스컬레이션 →](16_escalation_reliability.md)
+
 ---
 
 ## 15.1 컨텍스트 창의 한계와 대응

@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 Domain 3 — 언제 Plan Mode를 사용하는가?
 
+
+[← Chapter 10](10_commands_skills.md) | [목차](../TOC.md) | [Chapter 12: 프롬프트 엔지니어링 →](12_prompt_basics.md)
+
 ---
 
 ## 11.1 Plan Mode vs Direct Execution

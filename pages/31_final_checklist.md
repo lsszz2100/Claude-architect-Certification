@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > ✅ 시험 전날과 당일 확인 목록
 
+
+[← Chapter 30](30_exam_strategy.md) | [목차](../TOC.md) | [마치며 →](32_conclusion.md)
+
 ---
 
 ## 시험 전날 체크리스트
@@ -81,7 +84,7 @@
 
 ### 응시 전 준비 (2시간 전)
 - [ ] 치트시트 마지막으로 훑어보기
-- [ ] 등록 확인: https://anthropic.skilljar.com
+- [ ] 등록 확인: https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request
 - [ ] 응시 환경 확인 (인터넷, 조용한 공간)
 
 ### 문제 풀이 전략

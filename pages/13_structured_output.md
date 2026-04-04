@@ -3,6 +3,9 @@
 > 📅 2026년 04월 05일 기준  
 > 🎯 Domain 4 — tool_use가 가장 신뢰할 수 있는 방법
 
+
+[← Chapter 12](12_prompt_basics.md) | [목차](../TOC.md) | [Chapter 14: 배치 처리 →](14_batch_review.md)
+
 ---
 
 ## 13.1 tool_use와 JSON 스키마
