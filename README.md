@@ -1,6 +1,10 @@
 # Claude Certified Architect 완전 정복
 ### 초급자부터 합격까지 — 실무 중심 완벽 가이드
 
+<p align="center">
+  <img src="assets/cover.png" alt="Claude Certified Architect 완전 정복 표지" width="300">
+</p>
+
 > **작성일:** 2026년 04월 05일  
 > **대상:** AI 초급자 ~ 실무 개발자  
 > **버전:** v1.0  
@@ -43,6 +47,13 @@ AI가 단순한 도구를 넘어 **생각하고 행동하는 에이전트**로 �
 ## 저자 소개
 
 이 책은 Claude API, Agent SDK, Claude Code, MCP의 공식 문서와 시험 가이드를 완전 분석하여, 초급자가 실무 수준까지 성장할 수 있도록 구성되었습니다.
+
+### 연락처 및 커뮤니티
+
+| 채널 | 링크 |
+|------|------|
+| 📧 **이메일** | [leemanrank@gmail.com](mailto:leemanrank@gmail.com) |
+| 💬 **인공지능 정보공유 단톡방** | [카카오톡 오픈채팅 참여하기](https://open.kakao.com/o/s4OEqBai) |
 
 ---
 
