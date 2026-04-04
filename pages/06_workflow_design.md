@@ -1,14 +1,14 @@
-# Chapter 6: 워크플로우 설계
+# Chapter 06: 워크플로우 설계
 
 > 📅 2026년 04월 05일 기준  
 > 🎯 프로그래밍적 강제 vs 프롬프트 지시 — 시험 핵심
 
 
-[← Chapter 5](05_multi_agent.md) | [목차](../TOC.md) | [Chapter 7: 툴 설계 →](07_tool_design.md)
+[← Chapter 05](05_multi_agent.md) | [목차](../TOC.md) | [Chapter 07: 툴 설계 →](07_tool_design.md)
 
 ---
 
-## 6.1 프로그래밍적 강제 vs 프롬프트 지시
+## 06.1 프로그래밍적 강제 vs 프롬프트 지시
 
 > 🎯 시험 최빈출 개념 — 반드시 이해
 
@@ -72,7 +72,7 @@ class RefundWorkflow:
 
 ---
 
-## 6.2 Agent SDK Hooks
+## 06.2 Agent SDK Hooks
 
 > 🎯 시험 출제: PostToolUse 훅 패턴
 
@@ -146,7 +146,7 @@ def pre_tool_use_hook(tool_name: str, tool_input: dict):
 
 ---
 
-## 6.3 태스크 분해 전략
+## 06.3 태스크 분해 전략
 
 ### 두 가지 분해 패턴
 
@@ -193,7 +193,7 @@ def add_tests_to_legacy_codebase():
 
 ---
 
-## 6.4 세션 관리와 fork_session
+## 06.4 세션 관리와 fork_session
 
 ### 세션 재개 (--resume)
 

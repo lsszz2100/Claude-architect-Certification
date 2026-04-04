@@ -1,4 +1,4 @@
-# 4.2 에이전틱 루프의 핵심 원리
+# 04.2 에이전틱 루프의 핵심 원리
 
 > 📅 2026년 04월 05일 기준
 
@@ -111,4 +111,4 @@ def run_agent_safe(user_message: str, tools: list, max_iterations: int = 50):
 
 ---
 
-> 🔗 다음: [4.3 stop_reason 이해하기](04_3_stop_reason.md)
+> 🔗 다음: [04.3 stop_reason 이해하기](04_3_stop_reason.md)

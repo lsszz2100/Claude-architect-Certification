@@ -1,4 +1,4 @@
-# 9.1 Claude Code란?
+# 09.1 Claude Code란?
 
 > 📅 2026년 04월 05일 기준
 
@@ -60,4 +60,4 @@ claude -p "코드 리뷰를 수행하세요"
 
 ---
 
-> 🔗 다음: [9.2 CLAUDE.md 설정 계층 구조](09_2_claude_md.md)
+> 🔗 다음: [09.2 CLAUDE.md 설정 계층 구조](09_2_claude_md.md)

@@ -1,4 +1,4 @@
-# 7.3 구조화된 에러 응답 설계
+# 07.3 구조화된 에러 응답 설계
 
 > 📅 2026년 04월 05일 기준  
 > ⭐ 시험 핵심 — 에러 분류 암기 필수
@@ -83,4 +83,4 @@ def search_orders(customer_id: str):
 
 ---
 
-> 🔗 다음: [7.4 tool_choice 사용법](07_4_tool_choice.md)
+> 🔗 다음: [07.4 tool_choice 사용법](07_4_tool_choice.md)

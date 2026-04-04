@@ -1,4 +1,4 @@
-# 8.4 내장 툴 선택 기준
+# 08.4 내장 툴 선택 기준
 
 > 📅 2026년 04월 05일 기준  
 > ⭐ 시험 자주 출제
@@ -94,4 +94,4 @@ A: Edit (old_string이 파일 내 유일해야 함) ← 정답
 
 ---
 
-> 🔗 다음: [Chapter 9: Claude Code 실전 활용](../09_claude_code.md)
+> 🔗 다음: [Chapter 09: Claude Code 실전 활용](../09_claude_code.md)

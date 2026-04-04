@@ -30,16 +30,16 @@ D5                       ██
 
 ### Week 1 목표
 - [ ] Claude API 계정 생성 및 첫 API 호출
-- [ ] Chapter 1-3 완독
+- [ ] Chapter 01-3 완독
 - [ ] 다중 턴 대화 구현 실습
 
 ### Week 1 일일 계획
 
 | 요일 | 학습 내용 | 실습 |
 |------|----------|------|
-| 월 | Chapter 1: AI/LLM 기초 | - |
-| 화 | Chapter 2: Claude 모델 | 모델별 API 호출 비교 |
-| 수 | Chapter 3: API 기초 | 다중 턴 대화 구현 |
+| 월 | Chapter 01: AI/LLM 기초 | - |
+| 화 | Chapter 02: Claude 모델 | 모델별 API 호출 비교 |
+| 수 | Chapter 03: API 기초 | 다중 턴 대화 구현 |
 | 목 | 복습 + 실습 | ARIA 기본 챗봇 만들기 |
 | 금 | 자유 실습 | API 응답 구조 탐색 |
 | 토 | Week 1 요약 정리 | - |
@@ -63,12 +63,12 @@ D5                       ██
 
 | 요일 | 학습 내용 | 실습 |
 |------|----------|------|
-| 월 | Chapter 4: 에이전트 기초 | 기본 에이전틱 루프 구현 |
-| 화 | 4.3 stop_reason 이해 | stop_reason 테스트 코드 작성 |
-| 수 | Chapter 5: 멀티에이전트 | 2에이전트 파이프라인 구현 |
-| 목 | 5.4 병렬 실행 | 병렬 Task 호출 실습 |
-| 금 | Chapter 6: 워크플로우 | 프로그래밍적 게이트 구현 |
-| 토 | 6.2 Hooks | PostToolUse 훅 구현 |
+| 월 | Chapter 04: 에이전트 기초 | 기본 에이전틱 루프 구현 |
+| 화 | 04.3 stop_reason 이해 | stop_reason 테스트 코드 작성 |
+| 수 | Chapter 05: 멀티에이전트 | 2에이전트 파이프라인 구현 |
+| 목 | 05.4 병렬 실행 | 병렬 Task 호출 실습 |
+| 금 | Chapter 06: 워크플로우 | 프로그래밍적 게이트 구현 |
+| 토 | 06.2 Hooks | PostToolUse 훅 구현 |
 | 일 | Week 3 요약 | - |
 
 ### Week 4: Domain 1 심화
@@ -96,8 +96,8 @@ D5                       ██
 
 | 요일 | 학습 내용 |
 |------|----------|
-| 월-화 | Chapter 7: 툴 설계 + 실습 |
-| 수-목 | Chapter 8: MCP + .mcp.json 설정 |
+| 월-화 | Chapter 07: 툴 설계 + 실습 |
+| 수-목 | Chapter 08: MCP + .mcp.json 설정 |
 | 금 | 내장 툴 선택 기준 정리 |
 | 토 | Domain 2 모의 문제 8개 |
 
@@ -166,7 +166,7 @@ D5                       ██
 
 | 내 약점 도메인 | 보완 방법 |
 |--------------|----------|
-| Domain 1 약함 | Chapter 4-6 재학습 + 코드 구현 |
+| Domain 1 약함 | Chapter 04-6 재학습 + 코드 구현 |
 | Domain 2 약함 | 툴 설명 작성 10개 연습 |
 | Domain 3 약함 | CLAUDE.md 실제 프로젝트에 적용 |
 | Domain 4 약함 | Few-shot 예시 50개 작성 |

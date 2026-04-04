@@ -1,4 +1,4 @@
-# 6.4 세션 관리와 fork_session
+# 06.4 세션 관리와 fork_session
 
 > 📅 2026년 04월 05일 기준
 
@@ -94,4 +94,4 @@ SCRATCHPAD = """
 
 ---
 
-> 🔗 다음: [Chapter 7: 효과적인 툴 설계](../07_tool_design.md)
+> 🔗 다음: [Chapter 07: 효과적인 툴 설계](../07_tool_design.md)

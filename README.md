@@ -45,10 +45,10 @@ AI가 단순한 도구를 넘어 생각하고 행동하는 에이전트로 진�
 
 | Part | 내용 | 챕터 |
 |------|------|------|
-| Part 1 | 기초 — Claude와 AI 이해 | Chapter 1~3 |
-| Part 2 | Domain 1: Agentic Architecture (27%) | Chapter 4~6 |
-| Part 3 | Domain 2: Tool Design & MCP (18%) | Chapter 7~8 |
-| Part 4 | Domain 3: Claude Code (20%) | Chapter 9~11 |
+| Part 1 | 기초 — Claude와 AI 이해 | Chapter 01~03 |
+| Part 2 | Domain 1: Agentic Architecture (27%) | Chapter 04~06 |
+| Part 3 | Domain 2: Tool Design & MCP (18%) | Chapter 07~08 |
+| Part 4 | Domain 3: Claude Code (20%) | Chapter 09~11 |
 | Part 5 | Domain 4: Prompt Engineering (20%) | Chapter 12~14 |
 | Part 6 | Domain 5: Context Management (15%) | Chapter 15~16 |
 | Part 7 | 실전 시나리오 | Chapter 17~22 |

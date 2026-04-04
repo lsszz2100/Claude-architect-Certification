@@ -1,4 +1,4 @@
-# 8.2 MCP 서버 설정과 구성
+# 08.2 MCP 서버 설정과 구성
 
 > 📅 2026년 04월 05일 기준  
 > ⭐ 시험 핵심 — 파일 위치 암기 필수
@@ -102,4 +102,4 @@ sse: Server-Sent Events (원격 서버)
 
 ---
 
-> 🔗 다음: [8.3 MCP 툴과 리소스 설계](08_3_mcp_tools_resources.md)
+> 🔗 다음: [08.3 MCP 툴과 리소스 설계](08_3_mcp_tools_resources.md)

@@ -1,14 +1,14 @@
-# Chapter 8: Model Context Protocol (MCP)
+# Chapter 08: Model Context Protocol (MCP)
 
 > 📅 2026년 04월 05일 기준  
 > 🎯 Domain 2 핵심 — MCP 설정과 리소스 설계
 
 
-[← Chapter 7](07_tool_design.md) | [목차](../TOC.md) | [Chapter 9: Claude Code →](09_claude_code.md)
+[← Chapter 07](07_tool_design.md) | [목차](../TOC.md) | [Chapter 09: Claude Code →](09_claude_code.md)
 
 ---
 
-## 8.1 MCP란 무엇인가?
+## 08.1 MCP란 무엇인가?
 
 ### USB-C 비유
 
@@ -35,7 +35,7 @@ Claude ─── 직접 API ──→ Slack   Claude ─── MCP ──→ Sla
 
 ---
 
-## 8.2 MCP 서버 설정과 구성
+## 08.2 MCP 서버 설정과 구성
 
 > 🎯 시험 출제: 프로젝트 범위 vs 사용자 범위
 
@@ -98,7 +98,7 @@ Claude ─── 직접 API ──→ Slack   Claude ─── MCP ──→ Sla
 
 ---
 
-## 8.3 MCP 툴과 리소스 설계
+## 08.3 MCP 툴과 리소스 설계
 
 ### MCP 리소스 활용
 
@@ -147,7 +147,7 @@ class JiraMCPServer:
 
 ---
 
-## 8.4 내장 툴 선택 기준
+## 08.4 내장 툴 선택 기준
 
 > 🎯 시험 출제: Grep vs Glob vs Read vs Edit
 

@@ -1,4 +1,4 @@
-# 6.1 프로그래밍적 강제 vs 프롬프트 지시
+# 06.1 프로그래밍적 강제 vs 프롬프트 지시
 
 > 📅 2026년 04월 05일 기준  
 > ⭐ 시험 핵심 개념
@@ -94,4 +94,4 @@ class WorkflowGate:
 
 ---
 
-> 🔗 다음: [6.2 Agent SDK Hooks](06_2_hooks.md)
+> 🔗 다음: [06.2 Agent SDK Hooks](06_2_hooks.md)

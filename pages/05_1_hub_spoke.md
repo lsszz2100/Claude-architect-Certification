@@ -1,4 +1,4 @@
-# 5.1 Hub-and-Spoke 아키텍처
+# 05.1 Hub-and-Spoke 아키텍처
 
 > 📅 2026년 04월 05일 기준
 
@@ -67,4 +67,4 @@ A → B → C (순차, 병렬 불가)
 
 ---
 
-> 🔗 다음: [5.2 코디네이터와 서브에이전트](05_2_coordinator_subagent.md)
+> 🔗 다음: [05.2 코디네이터와 서브에이전트](05_2_coordinator_subagent.md)

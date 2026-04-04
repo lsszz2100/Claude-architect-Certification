@@ -1,4 +1,4 @@
-# 1.2 Large Language Model이란?
+# 01.2 Large Language Model이란?
 
 > 📅 2026년 04월 05일 기준
 
@@ -73,4 +73,4 @@ Claude는 단순 LLM을 넘어 에이전트로 동작할 수 있습니다.
 
 ---
 
-> 🔗 다음: [1.3 Claude가 특별한 이유](01_3_why_claude.md)
+> 🔗 다음: [01.3 Claude가 특별한 이유](01_3_why_claude.md)

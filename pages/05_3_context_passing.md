@@ -1,4 +1,4 @@
-# 5.3 컨텍스트 전달 전략
+# 05.3 컨텍스트 전달 전략
 
 > 📅 2026년 04월 05일 기준
 
@@ -91,4 +91,4 @@ def create_context_summary(full_context: dict) -> str:
 
 ---
 
-> 🔗 다음: [5.4 병렬 서브에이전트 실행](05_4_parallel_execution.md)
+> 🔗 다음: [05.4 병렬 서브에이전트 실행](05_4_parallel_execution.md)

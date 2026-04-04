@@ -54,7 +54,7 @@ Part 9 전략 먼저 → Part 2~6 도메인 순서대로 → Part 8 문제 풀�
 
 이 책의 예제 코드를 실행하려면:
 
-1. Python 3.10+ 설치
+1. Python 03.10+ 설치
 2. Anthropic SDK 설치:
    ```bash
    pip install anthropic

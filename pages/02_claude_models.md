@@ -1,14 +1,14 @@
-# Chapter 2: Claude 모델 패밀리
+# Chapter 02: Claude 모델 패밀리
 
 > 📅 2026년 04월 05일 기준  
 > 🎯 시험 출제 포인트: 모델 선택 기준, 컨텍스트 창 이해
 
 
-[← Chapter 1](01_ai_llm_world.md) | [목차](../TOC.md) | [Chapter 3: Claude API 첫걸음 →](03_api_basics.md)
+[← Chapter 01](01_ai_llm_world.md) | [목차](../TOC.md) | [Chapter 03: Claude API 첫걸음 →](03_api_basics.md)
 
 ---
 
-## 2.1 최신 Claude 모델 현황
+## 02.1 최신 Claude 모델 현황
 
 2026년 04월 기준, Anthropic의 최신 모델군은 다음과 같습니다:
 
@@ -16,15 +16,15 @@
 
 | 모델 | API ID | 컨텍스트 창 | 최대 출력 | 속도 | 가격 (입력/출력) |
 |------|--------|------------|----------|------|-----------------|
-| Claude Opus 4.6 | `claude-opus-4-6` | 1M tokens | 128k | 보통 | $5 / $25 (MTok) |
-| Claude Sonnet 4.6 | `claude-sonnet-4-6` | 1M tokens | 64k | 빠름 | $3 / $15 (MTok) |
-| Claude Haiku 4.5 | `claude-haiku-4-5-20251001` | 200k tokens | 64k | 가장 빠름 | $1 / $5 (MTok) |
+| Claude Opus 04.6 | `claude-opus-4-6` | 1M tokens | 128k | 보통 | $5 / $25 (MTok) |
+| Claude Sonnet 04.6 | `claude-sonnet-4-6` | 1M tokens | 64k | 빠름 | $3 / $15 (MTok) |
+| Claude Haiku 04.5 | `claude-haiku-4-5-20251001` | 200k tokens | 64k | 가장 빠름 | $1 / $5 (MTok) |
 
 > 💡 MTok = 100만 토큰 기준 가격
 
 ---
 
-## 2.2 Opus, Sonnet, Haiku — 언제 무엇을 쓸까?
+## 02.2 Opus, Sonnet, Haiku — 언제 무엇을 쓸까?
 
 ### 세 모델의 특성
 
@@ -64,7 +64,7 @@ synthesizer = claude_sonnet_4_6  # 최종 보고서 생성
 
 ---
 
-## 2.3 컨텍스트 윈도우와 토큰 이해
+## 02.3 컨텍스트 윈도우와 토큰 이해
 
 ### 토큰이란?
 
@@ -82,7 +82,7 @@ synthesizer = claude_sonnet_4_6  # 최종 보고서 생성
 
 ### 1M 토큰 컨텍스트의 의미
 
-Claude Opus/Sonnet 4.6의 1M 토큰 컨텍스트 창은 혁신적입니다:
+Claude Opus/Sonnet 04.6의 1M 토큰 컨텍스트 창은 혁신적입니다:
 
 | 활용 사례 | 필요 토큰 |
 |----------|----------|
@@ -111,7 +111,7 @@ Claude Opus/Sonnet 4.6의 1M 토큰 컨텍스트 창은 혁신적입니다:
 
 ---
 
-## 2.4 모델 배포 플랫폼
+## 02.4 모델 배포 플랫폼
 
 Claude는 세 가지 플랫폼에서 사용 가능합니다:
 

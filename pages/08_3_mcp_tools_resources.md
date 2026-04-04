@@ -1,4 +1,4 @@
-# 8.3 MCP 툴과 리소스 설계
+# 08.3 MCP 툴과 리소스 설계
 
 > 📅 2026년 04월 05일 기준
 
@@ -85,4 +85,4 @@ async def get_user(user_id: str) -> dict:
 
 ---
 
-> 🔗 다음: [8.4 내장 툴 선택 기준](08_4_builtin_tools.md)
+> 🔗 다음: [08.4 내장 툴 선택 기준](08_4_builtin_tools.md)

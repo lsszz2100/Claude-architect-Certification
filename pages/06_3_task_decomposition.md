@@ -1,4 +1,4 @@
-# 6.3 태스크 분해 전략
+# 06.3 태스크 분해 전략
 
 > 📅 2026년 04월 05일 기준
 
@@ -86,4 +86,4 @@ COORDINATOR_PROMPT = """
 
 ---
 
-> 🔗 다음: [6.4 세션 관리와 fork_session](06_4_session_management.md)
+> 🔗 다음: [06.4 세션 관리와 fork_session](06_4_session_management.md)

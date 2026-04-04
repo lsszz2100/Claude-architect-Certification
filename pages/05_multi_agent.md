@@ -1,10 +1,10 @@
-# Chapter 5: 멀티에이전트 시스템 설계
+# Chapter 05: 멀티에이전트 시스템 설계
 
 > 📅 2026년 04월 05일 기준  
 > 🎯 Domain 1 핵심 — Hub-and-Spoke 아키텍처
 
 
-[← Chapter 4](04_agentic_intro.md) | [목차](../TOC.md) | [Chapter 6: 워크플로우 설계 →](06_workflow_design.md)
+[← Chapter 04](04_agentic_intro.md) | [목차](../TOC.md) | [Chapter 06: 워크플로우 설계 →](06_workflow_design.md)
 
 ---
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 5.1 Hub-and-Spoke 아키텍처
+## 05.1 Hub-and-Spoke 아키텍처
 
 > 🎯 시험 최빈출 — 코디네이터-서브에이전트 패턴
 
@@ -86,7 +86,7 @@ subagent_task = f"""
 
 ---
 
-## 5.2 컨텍스트 전달 전략
+## 05.2 컨텍스트 전달 전략
 
 ### 구조화된 컨텍스트 전달
 
@@ -144,7 +144,7 @@ structured_finding = {
 
 ---
 
-## 5.3 병렬 서브에이전트 실행
+## 05.3 병렬 서브에이전트 실행
 
 > 🎯 시험 출제: Task 툴을 이용한 병렬 실행
 
@@ -184,7 +184,7 @@ coordinator_system = """
 
 ---
 
-## 5.4 코디네이터 설계 원칙
+## 05.4 코디네이터 설계 원칙
 
 ### 좋은 코디네이터 프롬프트
 

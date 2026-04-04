@@ -1,4 +1,4 @@
-# 2.1 Opus, Sonnet, Haiku — 언제 무엇을 쓸까?
+# 02.1 Opus, Sonnet, Haiku — 언제 무엇을 쓸까?
 
 > 📅 2026년 04월 05일 기준
 
@@ -16,7 +16,7 @@
 
 ## 모델 선택 기준
 
-### Opus 4.6 사용 시나리오
+### Opus 04.6 사용 시나리오
 
 ```python
 # 복잡한 추론이 필요한 경우
@@ -29,7 +29,7 @@ model = "claude-opus-4-6"
 - 법률/의료 문서 분석
 ```
 
-### Sonnet 4.6 사용 시나리오
+### Sonnet 04.6 사용 시나리오
 
 ```python
 # 균형 잡힌 성능이 필요한 경우 (기본 선택)
@@ -42,7 +42,7 @@ model = "claude-sonnet-4-6"
 - 대부분의 프로덕션 작업
 ```
 
-### Haiku 4.5 사용 시나리오
+### Haiku 04.5 사용 시나리오
 
 ```python
 # 속도와 비용이 우선인 경우
@@ -83,4 +83,4 @@ def select_model(task_complexity: str) -> str:
 
 ---
 
-> 🔗 다음: [2.2 컨텍스트 윈도우와 토큰 이해](02_2_context_tokens.md)
+> 🔗 다음: [02.2 컨텍스트 윈도우와 토큰 이해](02_2_context_tokens.md)

@@ -109,7 +109,7 @@ Claude Certified Architect – Foundations는 시작점입니다.
 
 2026년 현재, Claude 생태계는 빠르게 발전하고 있습니다.
 
-- Claude 모델: Opus 4.6, Sonnet 4.6, Haiku 4.5 이후로 더 강력한 모델 예정
+- Claude 모델: Opus 04.6, Sonnet 04.6, Haiku 04.5 이후로 더 강력한 모델 예정
 - MCP 생태계: 표준 프로토콜로 도구 연결이 더 쉬워질 것
 - Claude Code: 더 많은 IDE와 CI/CD 통합 예정
 - 에이전트 SDK: 더 복잡한 멀티에이전트 시스템 지원

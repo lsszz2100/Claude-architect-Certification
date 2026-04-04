@@ -1,4 +1,4 @@
-# 6.2 Agent SDK Hooks
+# 06.2 Agent SDK Hooks
 
 > 📅 2026년 04월 05일 기준  
 > ⭐ 시험 빈출 주제
@@ -138,4 +138,4 @@ class AgentWithHooks:
 
 ---
 
-> 🔗 다음: [6.3 태스크 분해 전략](06_3_task_decomposition.md)
+> 🔗 다음: [06.3 태스크 분해 전략](06_3_task_decomposition.md)

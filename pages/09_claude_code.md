@@ -1,14 +1,14 @@
-# Chapter 9: Claude Code 실전
+# Chapter 09: Claude Code 실전
 
 > 📅 2026년 04월 05일 기준  
 > 🎯 Domain 3: 20% — CLAUDE.md 계층이 핵심
 
 
-[← Chapter 8](08_mcp.md) | [목차](../TOC.md) | [Chapter 10: 커스텀 커맨드 →](10_commands_skills.md)
+[← Chapter 08](08_mcp.md) | [목차](../TOC.md) | [Chapter 10: 커스텀 커맨드 →](10_commands_skills.md)
 
 ---
 
-## 9.1 Claude Code란?
+## 09.1 Claude Code란?
 
 Claude Code는 Anthropic이 제공하는 AI 코딩 어시스턴트 CLI입니다.
 
@@ -36,7 +36,7 @@ claude "payment.py 파일의 환불 로직을 검토해줘"
 
 ---
 
-## 9.2 CLAUDE.md 설정 계층 구조
+## 09.2 CLAUDE.md 설정 계층 구조
 
 > 🎯 시험 최빈출: 3단계 계층 구조
 
@@ -123,7 +123,7 @@ ARIA는 업무 자동화를 위한 멀티에이전트 시스템입니다.
 
 ---
 
-## 9.3 .claude/rules/ 조건부 규칙
+## 09.3 .claude/rules/ 조건부 규칙
 
 > 🎯 시험 출제: glob 패턴으로 파일별 규칙 적용
 

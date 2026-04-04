@@ -1,4 +1,4 @@
-# 1.1 인공지능의 역사와 현재
+# 01.1 인공지능의 역사와 현재
 
 > 📅 2026년 04월 05일 기준
 
@@ -61,4 +61,4 @@ Constitutional AI(CAI) 방법론으로 Claude를 훈련:
 
 ---
 
-> 🔗 다음: [1.2 Large Language Model이란?](01_2_what_is_llm.md)
+> 🔗 다음: [01.2 Large Language Model이란?](01_2_what_is_llm.md)

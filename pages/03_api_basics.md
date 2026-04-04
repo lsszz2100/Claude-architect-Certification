@@ -1,14 +1,14 @@
-# Chapter 3: Claude API 첫걸음
+# Chapter 03: Claude API 첫걸음
 
 > 📅 2026년 04월 05일 기준  
 > 💻 실습 중심 챕터
 
 
-[← Chapter 2](02_claude_models.md) | [목차](../TOC.md) | [Chapter 4: 에이전틱 시스템 →](04_agentic_intro.md)
+[← Chapter 02](02_claude_models.md) | [목차](../TOC.md) | [Chapter 04: 에이전틱 시스템 →](04_agentic_intro.md)
 
 ---
 
-## 3.1 API 키 발급과 환경 설정
+## 03.1 API 키 발급과 환경 설정
 
 ### Step 1: Anthropic Console 접속
 
@@ -44,7 +44,7 @@ ANTHROPIC_API_KEY=sk-ant-...
 
 ---
 
-## 3.2 첫 번째 API 호출
+## 03.2 첫 번째 API 호출
 
 ### Python으로 시작하기
 
@@ -90,7 +90,7 @@ print(f"출력 토큰: {message.usage.output_tokens}")
 
 ---
 
-## 3.3 메시지 구조 이해하기
+## 03.3 메시지 구조 이해하기
 
 ### 기본 메시지 구조
 
@@ -173,7 +173,7 @@ aria_chat()
 
 ---
 
-## 3.4 API 파라미터
+## 03.4 API 파라미터
 
 | 파라미터 | 필수 | 설명 | 예시 |
 |---------|------|------|------|

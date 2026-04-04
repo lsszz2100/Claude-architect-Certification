@@ -1,14 +1,14 @@
-# Chapter 1: AI와 LLM의 세계
+# Chapter 01: AI와 LLM의 세계
 
 > 📅 2026년 04월 05일 기준  
 > 🎯 이 챕터는 시험 직접 출제 범위는 아니지만, 이후 모든 개념의 토대가 됩니다.
 
 
-[← 시작하기 전에](00_popular_topic.md) | [목차](../TOC.md) | [Chapter 2: Claude 모델 패밀리 →](02_claude_models.md)
+[← 시작하기 전에](00_popular_topic.md) | [목차](../TOC.md) | [Chapter 02: Claude 모델 패밀리 →](02_claude_models.md)
 
 ---
 
-## 1.1 인공지능의 역사와 현재
+## 01.1 인공지능의 역사와 현재
 
 ### AI의 세 번의 봄
 
@@ -25,7 +25,7 @@ Alan Turing의 "기계는 생각할 수 있는가?"라는 질문에서 시작되
 
 ---
 
-## 1.2 Large Language Model이란?
+## 01.2 Large Language Model이란?
 
 ### 언어 모델의 본질
 
@@ -60,7 +60,7 @@ LLM(Large Language Model)은 "다음 단어를 예측하는 기계" 로 시작�
 
 ---
 
-## 1.3 Claude가 특별한 이유
+## 01.3 Claude가 특별한 이유
 
 ### Anthropic의 철학: Constitutional AI
 

@@ -1,4 +1,4 @@
-# 9.2 CLAUDE.md 설정 계층 구조
+# 09.2 CLAUDE.md 설정 계층 구조
 
 > 📅 2026년 04월 05일 기준  
 > ⭐ 시험 핵심 — 계층 우선순위 암기 필수
@@ -81,4 +81,4 @@ frontend/CLAUDE.md: "들여쓰기: 2 스페이스"
 
 ---
 
-> 🔗 다음: [9.3 .claude/rules/ 조건부 규칙](09_3_rules.md)
+> 🔗 다음: [09.3 .claude/rules/ 조건부 규칙](09_3_rules.md)
