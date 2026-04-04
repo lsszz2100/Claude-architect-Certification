@@ -1,0 +1,33 @@
+# 민감한 파일 — 절대 커밋 금지
+*.pdf
+*.PDF
+.env
+.env.*
+secrets/
+*.key
+*.pem
+*.token
+*_token*
+*credentials*
+config.local.*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py
+*.pyc
+*.pyo
+
+# Temp
+*.tmp
+*.log
