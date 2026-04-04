@@ -1,13 +1,13 @@
 # Chapter 6: 워크플로우 설계
 
 > 📅 2026년 04월 05일 기준  
-> 🎯 **프로그래밍적 강제 vs 프롬프트 지시 — 시험 핵심**
+> 🎯 프로그래밍적 강제 vs 프롬프트 지시 — 시험 핵심
 
 ---
 
 ## 6.1 프로그래밍적 강제 vs 프롬프트 지시
 
-> 🎯 **시험 최빈출 개념 — 반드시 이해**
+> 🎯 시험 최빈출 개념 — 반드시 이해
 
 ### 핵심 원칙
 
@@ -69,9 +69,9 @@ class RefundWorkflow:
 
 ---
 
-## 6.2 Agent SDK Hooks 완전 정복
+## 6.2 Agent SDK Hooks
 
-> 🎯 **시험 출제: PostToolUse 훅 패턴**
+> 🎯 시험 출제: PostToolUse 훅 패턴
 
 ### 훅이란?
 
@@ -147,7 +147,7 @@ def pre_tool_use_hook(tool_name: str, tool_input: dict):
 
 ### 두 가지 분해 패턴
 
-**1. 프롬프트 체이닝 (Prompt Chaining)**
+1. 프롬프트 체이닝 (Prompt Chaining)
 - 예측 가능한 다단계 작업에 적합
 - 각 단계가 독립적이고 순서가 명확할 때
 
@@ -168,7 +168,7 @@ def review_pipeline(pr_files: list):
     return generate_review_report(results, integration_issues)
 ```
 
-**2. 동적 적응 분해 (Dynamic Decomposition)**
+2. 동적 적응 분해 (Dynamic Decomposition)
 - 오픈엔디드 조사 작업에 적합
 - 이전 단계 결과에 따라 다음 단계 결정
 
@@ -241,12 +241,12 @@ compare_approaches(approach_a, approach_b)
 
 ## 📝 챕터 요약
 
-- **프로그래밍적 강제** > **프롬프트 지시**: 금융, 법규 등 critical 비즈니스 규칙
-- **PostToolUse 훅**: 이기종 데이터 형식 정규화 (Unix ts → ISO 8601)
-- **PreToolUse 훅**: 비즈니스 규칙 위반 차단 ($500 초과 환불 차단 등)
-- **프롬프트 체이닝**: 예측 가능한 순서 작업
-- **동적 분해**: 발견에 기반한 적응적 작업
-- **fork_session**: 공통 기준점에서 독립 탐색
+- 프로그래밍적 강제 > 프롬프트 지시: 금융, 법규 등 critical 비즈니스 규칙
+- PostToolUse 훅: 이기종 데이터 형식 정규화 (Unix ts → ISO 8601)
+- PreToolUse 훅: 비즈니스 규칙 위반 차단 ($500 초과 환불 차단 등)
+- 프롬프트 체이닝: 예측 가능한 순서 작업
+- 동적 분해: 발견에 기반한 적응적 작업
+- fork_session: 공통 기준점에서 독립 탐색
 
 ---
 

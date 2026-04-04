@@ -1,24 +1,24 @@
 # 부록 C: 추가 학습 리소스
 
 > 📅 2026년 04월 05일 기준  
-> 📚 **공식 자료 및 추가 학습 자료 모음**
+> 📚 공식 자료 및 추가 학습 자료 모음
 
 ---
 
 ## 공식 Anthropic 자료
 
 ### 시험 관련
-- **시험 등록**: https://anthropic.skilljar.com
-- **공식 강의 (13개 무료)**: https://anthropic.skilljar.com
-- **연습 문제**: http://claudecertifications.com
+- 시험 등록: https://anthropic.skilljar.com
+- 공식 강의 (13개 무료): https://anthropic.skilljar.com
+- 연습 문제: http://claudecertifications.com
 
 ### 개발 문서
-- **API 문서**: https://docs.anthropic.com
-- **Claude Code 문서**: https://docs.anthropic.com/claude-code
-- **MCP 문서**: https://modelcontextprotocol.io
+- API 문서: https://docs.anthropic.com
+- Claude Code 문서: https://docs.anthropic.com/claude-code
+- MCP 문서: https://modelcontextprotocol.io
 
 ### 실습 코드
-- **Anthropic Cookbook**: https://github.com/anthropics/anthropic-cookbook
+- Anthropic Cookbook: https://github.com/anthropics/anthropic-cookbook
   - 에이전트 패턴
   - MCP 예제
   - 프롬프트 엔지니어링 가이드
@@ -106,9 +106,9 @@ export ANTHROPIC_API_KEY="sk-ant-..."
 
 ## 커뮤니티 및 지원
 
-- **Anthropic 공식 Discord**: 개발자 커뮤니티
-- **GitHub Issues**: https://github.com/anthropics/claude-code/issues
-- **Stack Overflow**: claude-api 태그
+- Anthropic 공식 Discord: 개발자 커뮤니티
+- GitHub Issues: https://github.com/anthropics/claude-code/issues
+- Stack Overflow: claude-api 태그
 
 ---
 

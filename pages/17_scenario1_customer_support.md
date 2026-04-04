@@ -1,7 +1,7 @@
 # Chapter 17: 시나리오 1 — 고객 지원 에이전트
 
 > 📅 2026년 04월 05일 기준  
-> 🎯 **실제 시험 시나리오 1 완전 분석**
+> 🎯 실제 시험 시나리오 1 해설
 
 ---
 
@@ -192,16 +192,16 @@ class CustomerSupportWorkflow:
 ## 시나리오 기반 예상 문제
 
 ### Q1: 고객 확인 건너뜀 문제
-**상황**: 12%의 케이스에서 에이전트가 `get_customer`를 건너뛰고 `lookup_order`를 직접 호출합니다.
+상황: 12%의 케이스에서 에이전트가 `get_customer`를 건너뛰고 `lookup_order`를 직접 호출합니다.
 
-**최선의 해결책은?**
+최선의 해결책은?
 
 A) 프롬프트에 "반드시 get_customer를 먼저 호출하라"고 강조  
-B) **프로그래밍적 게이트: lookup_order와 process_refund를 get_customer 성공 전에 차단**  
+B) 프로그래밍적 게이트: lookup_order와 process_refund를 get_customer 성공 전에 차단  
 C) few-shot 예시로 올바른 순서 보여주기  
 D) 요청 유형에 따라 적절한 툴만 활성화하는 라우터 구현  
 
-**정답: B** — 금융 거래에서 LLM 확률적 준수는 불충분. 프로그래밍적 강제만이 보장 가능.
+정답: B — 금융 거래에서 LLM 확률적 준수는 불충분. 프로그래밍적 강제만이 보장 가능.
 
 ---
 

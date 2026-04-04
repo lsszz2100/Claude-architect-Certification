@@ -1,19 +1,19 @@
 # Chapter 7: 효과적인 툴 설계
 
 > 📅 2026년 04월 05일 기준  
-> 🎯 **Domain 2: 18% — 툴 설명이 핵심**
+> 🎯 Domain 2: 18% — 툴 설명이 핵심
 
 ---
 
 ## 7.1 툴 설명(Description)의 중요성
 
-> 🎯 **시험 최빈출: "툴 설명이 LLM의 툴 선택에서 1차적 메커니즘"**
+> 🎯 시험 최빈출: "툴 설명이 LLM의 툴 선택에서 1차적 메커니즘"
 
 ### 왜 툴 설명이 중요한가?
 
 Claude는 툴 설명(description)을 기반으로 어떤 툴을 언제 사용할지 결정합니다.
 
-**나쁜 툴 설명의 결과:**
+나쁜 툴 설명의 결과:
 ```
 툴 A: description = "고객 정보를 가져옵니다"
 툴 B: description = "주문 정보를 가져옵니다"
@@ -138,7 +138,7 @@ tools = [
 
 ## 7.3 구조화된 에러 응답 설계
 
-> 🎯 **시험 출제: isError 플래그, errorCategory**
+> 🎯 시험 출제: isError 플래그, errorCategory
 
 ### 에러 분류 체계
 
@@ -229,7 +229,7 @@ def search_orders(customer_id: str):
 
 ---
 
-## 7.4 tool_choice 완전 정복
+## 7.4 tool_choice 사용법
 
 ```python
 # auto: Claude가 자율적으로 선택 (기본값)

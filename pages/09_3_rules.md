@@ -1,7 +1,7 @@
 # 9.3 .claude/rules/ 조건부 규칙
 
 > 📅 2026년 04월 05일 기준  
-> ⭐ **시험 빈출 — YAML frontmatter 형식 암기**
+> ⭐ 시험 빈출 — YAML frontmatter 형식 암기
 
 ---
 

@@ -1,7 +1,7 @@
 # Chapter 15: 컨텍스트 관리 전략
 
 > 📅 2026년 04월 05일 기준  
-> 🎯 **Domain 5: 15% — Lost-in-the-Middle, 구조화된 사실 추출**
+> 🎯 Domain 5: 15% — Lost-in-the-Middle, 구조화된 사실 추출
 
 ---
 
@@ -43,7 +43,7 @@ def trim_order_result(raw_order: dict) -> dict:
 
 ## 15.2 Lost-in-the-Middle 효과
 
-> 🎯 **시험 최빈출 개념**
+> 🎯 시험 최빈출 개념
 
 ### 현상 설명
 

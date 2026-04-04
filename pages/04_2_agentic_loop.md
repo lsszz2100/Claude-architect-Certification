@@ -111,4 +111,4 @@ def run_agent_safe(user_message: str, tools: list, max_iterations: int = 50):
 
 ---
 
-> 🔗 다음: [4.3 stop_reason 완전 정복](04_3_stop_reason.md)
+> 🔗 다음: [4.3 stop_reason 이해하기](04_3_stop_reason.md)

@@ -1,7 +1,7 @@
 # 7.3 구조화된 에러 응답 설계
 
 > 📅 2026년 04월 05일 기준  
-> ⭐ **시험 핵심 — 에러 분류 암기 필수**
+> ⭐ 시험 핵심 — 에러 분류 암기 필수
 
 ---
 
@@ -24,10 +24,10 @@ error_response = {
 
 | errorCategory | isRetryable | 예시 |
 |--------------|-------------|------|
-| **transient** | ✅ True | 타임아웃, 서버 오류, 네트워크 장애 |
-| **validation** | ❌ False | 잘못된 입력 형식, 필수 필드 누락 |
-| **business** | ❌ False | 정책 위반, 한도 초과, 권한 없음 |
-| **permission** | ❌ False | 인증 실패, 접근 거부 |
+| transient | ✅ True | 타임아웃, 서버 오류, 네트워크 장애 |
+| validation | ❌ False | 잘못된 입력 형식, 필수 필드 누락 |
+| business | ❌ False | 정책 위반, 한도 초과, 권한 없음 |
+| permission | ❌ False | 인증 실패, 접근 거부 |
 
 ---
 
@@ -83,4 +83,4 @@ def search_orders(customer_id: str):
 
 ---
 
-> 🔗 다음: [7.4 tool_choice 완전 정복](07_4_tool_choice.md)
+> 🔗 다음: [7.4 tool_choice 사용법](07_4_tool_choice.md)

@@ -1,7 +1,7 @@
 # 11.3 CI/CD 파이프라인 통합
 
 > 📅 2026년 04월 05일 기준  
-> ⭐ **시험 핵심 — -p 플래그와 --output-format json**
+> ⭐ 시험 핵심 — -p 플래그와 --output-format json
 
 ---
 

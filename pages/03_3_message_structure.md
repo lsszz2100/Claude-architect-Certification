@@ -15,7 +15,7 @@ messages = [
 ]
 ```
 
-**규칙:**
+규칙:
 - 항상 `user`로 시작
 - `user`와 `assistant`가 번갈아 등장
 - 마지막은 `user`

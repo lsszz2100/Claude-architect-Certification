@@ -1,13 +1,13 @@
-# Chapter 9: Claude Code 완전 정복
+# Chapter 9: Claude Code 실전
 
 > 📅 2026년 04월 05일 기준  
-> 🎯 **Domain 3: 20% — CLAUDE.md 계층이 핵심**
+> 🎯 Domain 3: 20% — CLAUDE.md 계층이 핵심
 
 ---
 
 ## 9.1 Claude Code란?
 
-Claude Code는 Anthropic이 제공하는 **AI 코딩 어시스턴트 CLI**입니다.
+Claude Code는 Anthropic이 제공하는 AI 코딩 어시스턴트 CLI입니다.
 
 ```bash
 # 설치
@@ -35,7 +35,7 @@ claude "payment.py 파일의 환불 로직을 검토해줘"
 
 ## 9.2 CLAUDE.md 설정 계층 구조
 
-> 🎯 **시험 최빈출: 3단계 계층 구조**
+> 🎯 시험 최빈출: 3단계 계층 구조
 
 ### 계층 구조
 
@@ -50,7 +50,7 @@ src/payment/CLAUDE.md        ← 디렉토리 수준 (해당 디렉토리 전용
 
 ### 각 수준별 적합한 내용
 
-**사용자 수준 (~/.claude/CLAUDE.md)**
+사용자 수준 (~/.claude/CLAUDE.md)
 ```markdown
 # 개인 설정
 
@@ -66,7 +66,7 @@ src/payment/CLAUDE.md        ← 디렉토리 수준 (해당 디렉토리 전용
 주의: 이 설정은 팀원들에게 공유되지 않습니다.
 ```
 
-**프로젝트 수준 (.claude/CLAUDE.md)**
+프로젝트 수준 (.claude/CLAUDE.md)
 ```markdown
 # ARIA 프로젝트 코딩 가이드
 
@@ -91,7 +91,7 @@ ARIA는 업무 자동화를 위한 멀티에이전트 시스템입니다.
 @import ./docs/testing-standards.md
 ```
 
-**디렉토리 수준 (src/payment/CLAUDE.md)**
+디렉토리 수준 (src/payment/CLAUDE.md)
 ```markdown
 # 결제 모듈 특별 지침
 
@@ -122,7 +122,7 @@ ARIA는 업무 자동화를 위한 멀티에이전트 시스템입니다.
 
 ## 9.3 .claude/rules/ 조건부 규칙
 
-> 🎯 **시험 출제: glob 패턴으로 파일별 규칙 적용**
+> 🎯 시험 출제: glob 패턴으로 파일별 규칙 적용
 
 ### 기본 구조
 

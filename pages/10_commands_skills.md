@@ -1,13 +1,13 @@
 # Chapter 10: 커스텀 커맨드와 Skills
 
 > 📅 2026년 04월 05일 기준  
-> 🎯 **Domain 3 — 프로젝트 vs 사용자 범위 구분**
+> 🎯 Domain 3 — 프로젝트 vs 사용자 범위 구분
 
 ---
 
 ## 10.1 슬래시 커맨드 만들기
 
-> 🎯 **시험 출제: .claude/commands/ vs ~/.claude/commands/**
+> 🎯 시험 출제: .claude/commands/ vs ~/.claude/commands/
 
 ### 범위 구분
 
@@ -111,7 +111,7 @@ argument-hint: "분석할 디렉토리 경로 (기본: 현재 디렉토리)"
 
 ## 10.3 context:fork와 격리 실행
 
-> 🎯 **시험 출제: context:fork의 목적**
+> 🎯 시험 출제: context:fork의 목적
 
 ### context:fork가 필요한 경우
 

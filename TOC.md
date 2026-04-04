@@ -1,10 +1,10 @@
 # 목차
 
-## 🌟 시작하기 전에
+## 시작하기 전에
 - [이 책을 읽는 방법](pages/00_how_to_read.md)
-- [인기 주제: AI 업무 자동화 비서란?](pages/00_popular_topic.md)
+- [AI 업무 자동화 비서란?](pages/00_popular_topic.md)
 
-## 📖 Part 1: 기초 다지기 — Claude와 AI 이해
+## Part 1: 기초 다지기 — Claude와 AI 이해
 - [Chapter 1: AI와 LLM의 세계](pages/01_ai_llm_world.md)
   - [1.1 인공지능의 역사와 현재](pages/01_1_ai_history.md)
   - [1.2 Large Language Model이란?](pages/01_2_what_is_llm.md)
@@ -17,11 +17,11 @@
   - [3.2 첫 번째 API 호출](pages/03_2_first_call.md)
   - [3.3 메시지 구조 이해하기](pages/03_3_message_structure.md)
 
-## 🤖 Part 2: Domain 1 — Agentic Architecture & Orchestration (27%)
+## Part 2: Domain 1 — Agentic Architecture & Orchestration (27%)
 - [Chapter 4: 에이전틱 시스템의 이해](pages/04_agentic_intro.md)
   - [4.1 에이전트란 무엇인가?](pages/04_1_what_is_agent.md)
   - [4.2 에이전틱 루프의 핵심 원리](pages/04_2_agentic_loop.md)
-  - [4.3 stop_reason 완전 정복](pages/04_3_stop_reason.md)
+  - [4.3 stop_reason 이해하기](pages/04_3_stop_reason.md)
 - [Chapter 5: 멀티에이전트 시스템 설계](pages/05_multi_agent.md)
   - [5.1 Hub-and-Spoke 아키텍처](pages/05_1_hub_spoke.md)
   - [5.2 코디네이터와 서브에이전트](pages/05_2_coordinator_subagent.md)
@@ -29,24 +29,24 @@
   - [5.4 병렬 서브에이전트 실행](pages/05_4_parallel_execution.md)
 - [Chapter 6: 워크플로우 설계](pages/06_workflow_design.md)
   - [6.1 프로그래밍적 강제 vs 프롬프트 지시](pages/06_1_enforcement.md)
-  - [6.2 Agent SDK Hooks 완전 정복](pages/06_2_hooks.md)
+  - [6.2 Agent SDK Hooks](pages/06_2_hooks.md)
   - [6.3 태스크 분해 전략](pages/06_3_task_decomposition.md)
   - [6.4 세션 관리와 fork_session](pages/06_4_session_management.md)
 
-## 🔧 Part 3: Domain 2 — Tool Design & MCP Integration (18%)
+## Part 3: Domain 2 — Tool Design & MCP Integration (18%)
 - [Chapter 7: 효과적인 툴 설계](pages/07_tool_design.md)
   - [7.1 툴 설명(Description)의 중요성](pages/07_1_tool_descriptions.md)
   - [7.2 툴 경계 설정과 분리](pages/07_2_tool_boundaries.md)
   - [7.3 구조화된 에러 응답 설계](pages/07_3_error_responses.md)
-  - [7.4 tool_choice 완전 정복](pages/07_4_tool_choice.md)
+  - [7.4 tool_choice 사용법](pages/07_4_tool_choice.md)
 - [Chapter 8: Model Context Protocol (MCP)](pages/08_mcp.md)
   - [8.1 MCP란 무엇인가?](pages/08_1_mcp_intro.md)
   - [8.2 MCP 서버 설정과 구성](pages/08_2_mcp_config.md)
   - [8.3 MCP 툴과 리소스 설계](pages/08_3_mcp_tools_resources.md)
   - [8.4 내장 툴 선택 기준](pages/08_4_builtin_tools.md)
 
-## 💻 Part 4: Domain 3 — Claude Code Configuration & Workflows (20%)
-- [Chapter 9: Claude Code 완전 정복](pages/09_claude_code.md)
+## Part 4: Domain 3 — Claude Code Configuration & Workflows (20%)
+- [Chapter 9: Claude Code 실전 활용](pages/09_claude_code.md)
   - [9.1 Claude Code란?](pages/09_1_claude_code_intro.md)
   - [9.2 CLAUDE.md 설정 계층 구조](pages/09_2_claude_md.md)
   - [9.3 .claude/rules/ 조건부 규칙](pages/09_3_rules.md)
@@ -59,10 +59,10 @@
   - [11.2 반복 개선 기법](pages/11_2_iterative_refinement.md)
   - [11.3 CI/CD 파이프라인 통합](pages/11_3_cicd.md)
 
-## ✍️ Part 5: Domain 4 — Prompt Engineering & Structured Output (20%)
+## Part 5: Domain 4 — Prompt Engineering & Structured Output (20%)
 - [Chapter 12: 프롬프트 엔지니어링 기초](pages/12_prompt_basics.md)
   - [12.1 명시적 기준 설계](pages/12_1_explicit_criteria.md)
-  - [12.2 Few-Shot 프롬프팅 마스터](pages/12_2_few_shot.md)
+  - [12.2 Few-Shot 프롬프팅 활용](pages/12_2_few_shot.md)
 - [Chapter 13: 구조화된 출력 설계](pages/13_structured_output.md)
   - [13.1 tool_use와 JSON 스키마](pages/13_1_tool_use_json.md)
   - [13.2 스키마 설계 원칙](pages/13_2_schema_design.md)
@@ -71,7 +71,7 @@
   - [14.1 Message Batches API](pages/14_1_batch_api.md)
   - [14.2 멀티패스 리뷰 설계](pages/14_2_multi_pass.md)
 
-## 🧠 Part 6: Domain 5 — Context Management & Reliability (15%)
+## Part 6: Domain 5 — Context Management & Reliability (15%)
 - [Chapter 15: 컨텍스트 관리 전략](pages/15_context_management.md)
   - [15.1 컨텍스트 창의 한계와 대응](pages/15_1_context_limits.md)
   - [15.2 Lost-in-the-Middle 효과](pages/15_2_lost_middle.md)
@@ -82,7 +82,7 @@
   - [16.3 대규모 코드베이스 탐색](pages/16_3_large_codebase.md)
   - [16.4 정보 출처 보존](pages/16_4_provenance.md)
 
-## 🎯 Part 7: 실전 시나리오 완전 정복
+## Part 7: 실전 시나리오
 - [Chapter 17: 시나리오 1 — 고객 지원 에이전트](pages/17_scenario1_customer_support.md)
 - [Chapter 18: 시나리오 2 — Claude Code로 코드 생성](pages/18_scenario2_code_generation.md)
 - [Chapter 19: 시나리오 3 — 멀티에이전트 연구 시스템](pages/19_scenario3_multi_agent.md)
@@ -90,21 +90,21 @@
 - [Chapter 21: 시나리오 5 — CI/CD 통합](pages/21_scenario5_cicd.md)
 - [Chapter 22: 시나리오 6 — 구조화된 데이터 추출](pages/22_scenario6_data_extraction.md)
 
-## 📝 Part 8: 실전 문제 풀이
+## Part 8: 실전 문제 풀이
 - [Chapter 23: 샘플 문제 해설 (Q1~Q4)](pages/23_sample_q1_4.md)
 - [Chapter 24: 샘플 문제 해설 (Q5~Q8)](pages/24_sample_q5_8.md)
 - [Chapter 25: 샘플 문제 해설 (Q9~Q12)](pages/25_sample_q9_12.md)
-- [Chapter 26: 도메인별 추가 연습 문제 50선](pages/26_practice_questions.md)
+- [Chapter 26: 도메인별 연습 문제 50선](pages/26_practice_questions.md)
 
-## 🏆 Part 9: 시험 전략과 마무리
-- [Chapter 27: 출제 범위 완벽 정리](pages/27_in_scope.md)
+## Part 9: 시험 전략과 마무리
+- [Chapter 27: 출제 범위 정리](pages/27_in_scope.md)
 - [Chapter 28: 비출제 범위 정리](pages/28_out_of_scope.md)
 - [Chapter 29: 12주 학습 계획표](pages/29_study_plan.md)
 - [Chapter 30: 시험 당일 전략](pages/30_exam_strategy.md)
 - [Chapter 31: 최종 체크리스트](pages/31_final_checklist.md)
 - [마치며](pages/32_conclusion.md)
 
-## 📚 부록 (Appendix)
+## 부록 (Appendix)
 - [부록 A: 핵심 용어 사전](pages/A1_glossary.md)
 - [부록 B: 핵심 치트시트](pages/A2_cheatsheet.md)
 - [부록 C: 추가 학습 리소스](pages/A3_resources.md)

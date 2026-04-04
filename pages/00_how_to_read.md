@@ -6,9 +6,9 @@
 
 ## 이 책의 구성 원칙
 
-이 책은 **"배우면서 만든다(Learn by Building)"** 는 철학으로 설계되었습니다.
+이 책은 "배우면서 만든다(Learn by Building)" 는 철학으로 설계되었습니다.
 
-단순히 개념을 설명하는 것에서 그치지 않고, **AI 업무 자동화 비서**라는 하나의 일관된 프로젝트를 통해 각 개념을 실제로 적용하는 경험을 제공합니다.
+단순히 개념을 설명하는 것에서 그치지 않고, AI 업무 자동화 비서라는 하나의 일관된 프로젝트를 통해 각 개념을 실제로 적용하는 경험을 제공합니다.
 
 ---
 
@@ -51,12 +51,12 @@ Part 9 전략 먼저 → Part 2~6 도메인 순서대로 → Part 8 문제 풀�
 
 이 책의 예제 코드를 실행하려면:
 
-1. **Python 3.10+** 설치
-2. **Anthropic SDK** 설치:
+1. Python 3.10+ 설치
+2. Anthropic SDK 설치:
    ```bash
    pip install anthropic
    ```
-3. **API 키** 발급: [https://console.anthropic.com](https://console.anthropic.com)
+3. API 키 발급: [https://console.anthropic.com](https://console.anthropic.com)
 4. 환경 변수 설정:
    ```bash
    export ANTHROPIC_API_KEY="your-api-key-here"
@@ -68,15 +68,15 @@ Part 9 전략 먼저 → Part 2~6 도메인 순서대로 → Part 8 문제 풀�
 
 이 책은 다음 공식 자료를 기반으로 작성되었습니다:
 
-- **Claude Certified Architect – Foundations Exam Guide** (v0.1, 2025.02.10)
-- **Anthropic 공식 문서**: https://docs.anthropic.com
-- **Claude Cookbook**: https://github.com/anthropics/anthropic-cookbook
-- **MCP 공식 문서**: https://modelcontextprotocol.io
-- **Claude Certifications**: https://claudecertifications.com
+- Claude Certified Architect – Foundations Exam Guide (v0.1, 2025.02.10)
+- Anthropic 공식 문서: https://docs.anthropic.com
+- Claude Cookbook: https://github.com/anthropics/anthropic-cookbook
+- MCP 공식 문서: https://modelcontextprotocol.io
+- Claude Certifications: https://claudecertifications.com
 
 ---
 
-> 📌 **중요**: 이 책의 모든 코드와 개념은 2026년 04월 05일 기준으로 검증되었습니다. Claude API는 지속적으로 업데이트되므로, 최신 변경사항은 공식 문서를 함께 참고하세요.
+> 📌 중요: 이 책의 모든 코드와 개념은 2026년 04월 05일 기준으로 검증되었습니다. Claude API는 지속적으로 업데이트되므로, 최신 변경사항은 공식 문서를 함께 참고하세요.
 
 ---
 
@@ -86,7 +86,7 @@ Part 9 전략 먼저 → Part 2~6 도메인 순서대로 → Part 8 문제 풀�
 
 | 채널 | 링크 |
 |------|------|
-| 📧 **이메일** | [leemanrank@gmail.com](mailto:leemanrank@gmail.com) |
-| 💬 **인공지능 정보공유 단톡방** | [카카오톡 오픈채팅 참여하기](https://open.kakao.com/o/s4OEqBai) |
+| 📧 이메일 | [leemanrank@gmail.com](mailto:leemanrank@gmail.com) |
+| 💬 인공지능 정보공유 단톡방 | [카카오톡 오픈채팅 참여하기](https://open.kakao.com/o/s4OEqBai) |
 
 > AI 관련 최신 정보, 시험 후기, 학습 자료를 함께 공유하는 공간입니다. 많은 참여 바랍니다!

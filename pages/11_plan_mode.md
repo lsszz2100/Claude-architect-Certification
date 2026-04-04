@@ -1,17 +1,17 @@
 # Chapter 11: Plan Mode와 개발 워크플로우
 
 > 📅 2026년 04월 05일 기준  
-> 🎯 **Domain 3 — 언제 Plan Mode를 사용하는가?**
+> 🎯 Domain 3 — 언제 Plan Mode를 사용하는가?
 
 ---
 
 ## 11.1 Plan Mode vs Direct Execution
 
-> 🎯 **시험 출제: 복잡도에 따른 선택**
+> 🎯 시험 출제: 복잡도에 따른 선택
 
 ### Plan Mode란?
 
-Plan Mode는 변경을 실행하기 전에 **계획을 먼저 수립**하는 모드입니다.
+Plan Mode는 변경을 실행하기 전에 계획을 먼저 수립하는 모드입니다.
 
 ```bash
 # Plan Mode 진입
@@ -52,7 +52,7 @@ Plan Mode 적합:                    Direct Execution 적합:
 
 ## 11.2 반복 개선 기법
 
-> 🎯 **시험 출제: 입력/출력 예시가 가장 효과적**
+> 🎯 시험 출제: 입력/출력 예시가 가장 효과적
 
 ### 기법 1: 구체적 입력/출력 예시
 
@@ -141,7 +141,7 @@ fix_bug_2()  # 버그 2 수정 → 버그 1 수정 영향받을 수 있음!
 
 ## 11.3 CI/CD 파이프라인 통합
 
-> 🎯 **시험 출제: -p 플래그, --output-format json**
+> 🎯 시험 출제: -p 플래그, --output-format json
 
 ### 비대화형 모드 실행
 

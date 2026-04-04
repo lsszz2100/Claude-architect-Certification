@@ -1,7 +1,7 @@
 # Chapter 32: 마치며
 
 > 📅 2026년 04월 05일 기준  
-> 🌟 **Claude Architect의 여정을 시작하며**
+> Claude Architect의 여정을 시작하며
 
 ---
 
@@ -73,7 +73,7 @@ Chapter 12-16: 프롬프트 + 컨텍스트 → 신뢰할 수 있는 의사결정
 Chapter 17-22: 실전 시나리오 → 진짜 문제 해결사
 ```
 
-ARIA는 더 이상 단순한 챗봇이 아닙니다. 진정한 **비즈니스 파트너**가 되었습니다.
+ARIA는 더 이상 단순한 챗봇이 아닙니다. 진정한 비즈니스 파트너가 되었습니다.
 
 ---
 
@@ -106,12 +106,12 @@ Claude Certified Architect – Foundations는 시작점입니다.
 
 2026년 현재, Claude 생태계는 빠르게 발전하고 있습니다.
 
-- **Claude 모델**: Opus 4.6, Sonnet 4.6, Haiku 4.5 이후로 더 강력한 모델 예정
-- **MCP 생태계**: 표준 프로토콜로 도구 연결이 더 쉬워질 것
-- **Claude Code**: 더 많은 IDE와 CI/CD 통합 예정
-- **에이전트 SDK**: 더 복잡한 멀티에이전트 시스템 지원
+- Claude 모델: Opus 4.6, Sonnet 4.6, Haiku 4.5 이후로 더 강력한 모델 예정
+- MCP 생태계: 표준 프로토콜로 도구 연결이 더 쉬워질 것
+- Claude Code: 더 많은 IDE와 CI/CD 통합 예정
+- 에이전트 SDK: 더 복잡한 멀티에이전트 시스템 지원
 
-이 책에서 배운 **원칙들**은 바뀌지 않습니다:
+이 책에서 배운 원칙들은 바뀌지 않습니다:
 - 프로그래밍적 강제의 중요성
 - 명시적 컨텍스트 전달
 - 툴 설명의 품질
@@ -124,7 +124,7 @@ Claude Certified Architect – Foundations는 시작점입니다.
 이 여정에 함께해 주셔서 감사합니다.
 
 Claude를 배우는 것은 단순히 API 사용법을 익히는 것이 아닙니다.
-**"AI와 어떻게 협력할 것인가?"** 에 대한 새로운 사고방식을 배우는 것입니다.
+"AI와 어떻게 협력할 것인가?" 에 대한 새로운 사고방식을 배우는 것입니다.
 
 당신은 이제 그 질문에 답할 준비가 되었습니다.
 
@@ -148,7 +148,7 @@ Claude를 배우는 것은 단순히 API 사용법을 익히는 것이 아닙니
 
 ---
 
-> 🏆 **Claude Certified Architect – Foundations 합격을 응원합니다!**
+> 🏆 Claude Certified Architect – Foundations 합격을 응원합니다!
 
 ---
 
@@ -172,7 +172,7 @@ Claude를 배우는 것은 단순히 API 사용법을 익히는 것이 아닙니
 
 | 채널 | 링크 |
 |------|------|
-| 📧 **이메일** | [leemanrank@gmail.com](mailto:leemanrank@gmail.com) |
-| 💬 **인공지능 정보공유 단톡방** | [카카오톡 오픈채팅 참여하기](https://open.kakao.com/o/s4OEqBai) |
+| 📧 이메일 | [leemanrank@gmail.com](mailto:leemanrank@gmail.com) |
+| 💬 인공지능 정보공유 단톡방 | [카카오톡 오픈채팅 참여하기](https://open.kakao.com/o/s4OEqBai) |
 
 > 함께 공부하고, 함께 합격합시다. 여러분의 합격 소식을 기다리겠습니다! 🏆
