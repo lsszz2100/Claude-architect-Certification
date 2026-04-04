@@ -1,4 +1,4 @@
-# Claude Certified Architect 자격증 준비 가이드
+# Claude Architect 자격증 준비 가이드
 
 <p align="center">
   <img src="assets/cover.png" alt="Claude Certified Architect 자격증 준비 가이드 표지" width="300">
