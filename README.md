@@ -12,10 +12,10 @@
 
 > 이 책은 TOC.md(목차)를 통해 순서대로 읽도록 설계되어 있습니다.
 
-**[목차 바로가기 →](TOC.md)**
+**[목차 바로가기 →](https://github.com/lsszz2100/Claude-architect-Certification/blob/main/TOC.md)**
 
 또는 첫 페이지부터 읽기:  
-[이 책을 읽는 방법 →](pages/00_how_to_read.md)
+[이 책을 읽는 방법 →](https://github.com/lsszz2100/Claude-architect-Certification/blob/main/pages/00_how_to_read.md)
 
 ---
 
@@ -56,7 +56,7 @@ AI가 단순한 도구를 넘어 생각하고 행동하는 에이전트로 진�
 | Part 9 | 시험 전략과 마무리 | Chapter 27~31 |
 | 부록 | 용어사전, 치트시트, 코드 모음 | A~D |
 
-전체 목차는 [TOC.md](TOC.md)를 참고하세요.
+전체 목차는 [TOC.md](https://github.com/lsszz2100/Claude-architect-Certification/blob/main/TOC.md)를 참고하세요.
 
 ---
 
