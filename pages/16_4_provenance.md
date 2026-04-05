@@ -91,4 +91,4 @@ A: 어떤 정보가 맞는지 알 수 없고, 오류 원인 추적이 불가능
 
 ---
 
-> 🔗 다음: [Part 7: 실전 시나리오](../17_scenario1_customer_support.md)
+> 🔗 다음: [Part 7: 실전 시나리오](17_scenario1_customer_support.md)

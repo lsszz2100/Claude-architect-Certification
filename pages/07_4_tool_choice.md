@@ -87,4 +87,4 @@ tool_choice + 스키마 정의:
 
 ---
 
-> 🔗 다음: [Chapter 08: Model Context Protocol (MCP)](../08_mcp.md)
+> 🔗 다음: [Chapter 08: Model Context Protocol (MCP)](08_mcp.md)

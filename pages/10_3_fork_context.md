@@ -69,4 +69,4 @@ $ARGUMENTS 파일에 대한 포괄적인 테스트를 생성하세요.
 
 ---
 
-> 🔗 다음: [Chapter 11: Plan Mode와 개발 워크플로우](../11_plan_mode.md)
+> 🔗 다음: [Chapter 11: Plan Mode와 개발 워크플로우](11_plan_mode.md)

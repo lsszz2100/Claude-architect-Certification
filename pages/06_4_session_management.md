@@ -94,4 +94,4 @@ SCRATCHPAD = """
 
 ---
 
-> 🔗 다음: [Chapter 07: 효과적인 툴 설계](../07_tool_design.md)
+> 🔗 다음: [Chapter 07: 효과적인 툴 설계](07_tool_design.md)

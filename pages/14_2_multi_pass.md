@@ -91,4 +91,4 @@ def independent_review(code: str) -> str:
 
 ---
 
-> 🔗 다음: [Chapter 15: 컨텍스트 관리 전략](../15_context_management.md)
+> 🔗 다음: [Chapter 15: 컨텍스트 관리 전략](15_context_management.md)

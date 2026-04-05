@@ -84,4 +84,4 @@ Terraform 규칙:
 
 ---
 
-> 🔗 다음: [Chapter 10: 커스텀 커맨드와 Skills](../10_commands_skills.md)
+> 🔗 다음: [Chapter 10: 커스텀 커맨드와 Skills](10_commands_skills.md)

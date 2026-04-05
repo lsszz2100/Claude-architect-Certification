@@ -101,4 +101,4 @@ messages.append({
 
 ---
 
-> 🔗 다음: [Chapter 04: 에이전틱 시스템의 이해](../04_agentic_intro.md)
+> 🔗 다음: [Chapter 04: 에이전틱 시스템의 이해](04_agentic_intro.md)

@@ -77,4 +77,4 @@ for i in range(10):  # ← 단독으로 사용 금지
 
 ---
 
-> 🔗 다음: [Chapter 05: 멀티에이전트 시스템 설계](../05_multi_agent.md)
+> 🔗 다음: [Chapter 05: 멀티에이전트 시스템 설계](05_multi_agent.md)

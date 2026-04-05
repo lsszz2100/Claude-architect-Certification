@@ -88,4 +88,4 @@ def validate(data: dict) -> list[str]:
 
 ---
 
-> 🔗 다음: [Chapter 14: 배치 처리와 리뷰 아키텍처](../14_batch_review.md)
+> 🔗 다음: [Chapter 14: 배치 처리와 리뷰 아키텍처](14_batch_review.md)

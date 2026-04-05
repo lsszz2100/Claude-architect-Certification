@@ -89,4 +89,4 @@ FEW_SHOT_PROMPT = """
 
 ---
 
-> 🔗 다음: [Chapter 13: 구조화된 출력 설계](../13_structured_output.md)
+> 🔗 다음: [Chapter 13: 구조화된 출력 설계](13_structured_output.md)

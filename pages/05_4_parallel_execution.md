@@ -92,4 +92,4 @@ messages.append({"role": "user", "content": tool_results})
 
 ---
 
-> 🔗 다음: [Chapter 06: 워크플로우 설계](../06_workflow_design.md)
+> 🔗 다음: [Chapter 06: 워크플로우 설계](06_workflow_design.md)

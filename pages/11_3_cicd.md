@@ -88,4 +88,4 @@ critical_issues = [i for i in analysis["issues"] if i["severity"] == "critical"]
 
 ---
 
-> 🔗 다음: [Chapter 12: 프롬프트 엔지니어링 기초](../12_prompt_basics.md)
+> 🔗 다음: [Chapter 12: 프롬프트 엔지니어링 기초](12_prompt_basics.md)

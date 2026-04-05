@@ -62,4 +62,4 @@ Claude Haiku 4.5: 200,000 토큰
 
 ---
 
-> 🔗 다음: [Chapter 02: Claude 모델 패밀리](../02_claude_models.md)
+> 🔗 다음: [Chapter 02: Claude 모델 패밀리](02_claude_models.md)

@@ -94,4 +94,4 @@ A: Edit (old_string이 파일 내 유일해야 함) ← 정답
 
 ---
 
-> 🔗 다음: [Chapter 09: Claude Code 실전 활용](../09_claude_code.md)
+> 🔗 다음: [Chapter 09: Claude Code 실전 활용](09_claude_code.md)

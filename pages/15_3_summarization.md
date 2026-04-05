@@ -87,4 +87,4 @@ SCRATCHPAD = """
 
 ---
 
-> 🔗 다음: [Chapter 16: 에스컬레이션과 신뢰성](../16_escalation_reliability.md)
+> 🔗 다음: [Chapter 16: 에스컬레이션과 신뢰성](16_escalation_reliability.md)
